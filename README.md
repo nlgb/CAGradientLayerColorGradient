@@ -1,0 +1,2 @@
+# CAGradientLayerColorGradient
+CAGradientLayer实现图片或者文字颜色渐变
